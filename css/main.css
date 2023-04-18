@@ -1,0 +1,29 @@
+body {
+    width: 700px;
+}
+
+#photo {
+    text-align: left;
+}
+#header {
+    text-align: left;
+}
+#profile {
+    text-align: left;
+}  
+#publications {
+    text-align: left;
+}
+#patents {
+    text-align: left;
+}
+
+#projects {
+    text-align: left;
+}
+#awards {
+    text-align: left;
+}
+#skills {
+    text-align: left;
+}
