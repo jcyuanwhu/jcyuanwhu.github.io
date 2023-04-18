@@ -1,10 +1,17 @@
 body {
-    width: 700px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
-#photo {
+h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+} */
+
+/* #photo {
     text-align: left;
-}
+} */
+
 #header {
     text-align: left;
 }
@@ -17,7 +24,6 @@ body {
 #patents {
     text-align: left;
 }
-
 #projects {
     text-align: left;
 }
